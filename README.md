@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jax Murphree
 
-<!--
-**WoojLabs/WoojLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent George Mason University graduate with a Bachelor of Applied Science in Cloud Computing, focused on cloud systems, technical implementation, and applied AI.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS and cloud infrastructure
+- Systems, networking, and troubleshooting
+- Automation, APIs, and practical software foundations
+- Applied AI systems and AI-assisted engineering
+- Building reliable, explainable technical projects
+
+## Portfolio
+
+I’m currently strengthening and rehabilitating selected cloud and software projects before publishing them as employer-facing portfolio work.
+
+Public repositories and project documentation will be added here as they become ready to demonstrate clearly and defend technically.
+
+## Career interests
+
+I’m interested in early-career opportunities across:
+
+- Cloud Support / Cloud Engineering
+- Systems / Infrastructure
+- Technical Implementation / Professional Services
+- Automation / Integration
+- Applied AI + Cloud
+- Defense and public-sector technology
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jaxmurphree)
