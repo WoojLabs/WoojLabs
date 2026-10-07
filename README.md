@@ -12,7 +12,7 @@ Recent George Mason University graduate with a Bachelor of Applied Science in Cl
 
 ## Portfolio
 
-I’m currently strengthening and rehabilitating selected cloud and software projects before publishing them as employer-facing portfolio work.
+I’m currently refining and documenting selected cloud and software projects before publishing them as employer-facing portfolio work.
 
 Public repositories and project documentation will be added here as they become ready to demonstrate clearly and defend technically.
 
